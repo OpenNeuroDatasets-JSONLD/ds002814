@@ -1,10 +1,9 @@
 {
     "Acknowledgements": "TODO: whom you want to acknowledge",
     "Authors": [
-        "TODO:",
-        "First1 Last1",
-        "First2 Last2",
-        "..."
+        "Fatemeh Ebrahiminia",
+        "Morteza Mahdiani",
+        "Seyed-Mahdi Khaligh-Razavi"
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "10.18112/openneuro.ds002814.v1.1.0",
