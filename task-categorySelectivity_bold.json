@@ -4,7 +4,7 @@
   "BandwidthPerPixelPhaseEncode": 38.873,
   "BaseResolution": 70,
   "BodyPartExamined": "HEAD",
-  "CogAtlasID": "TODO",
+  "CogAtlasID": "",
   "ConsistencyInfo": "N4_VE11B_LATEST_20150530",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20190410  GCC6.3.0",
